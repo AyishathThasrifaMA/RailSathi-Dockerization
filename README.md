@@ -10,10 +10,14 @@ pip install -r requirements.txt
 
 some endpoints:-
 http://localhost:8000/rs_microservice
+
 http://localhost:8000/rs_microservice/docs → Swagger UI
+
 http://localhost:8000/rs_microservice/redoc → ReDoc
+
 OpenAPI schema at:
 http://localhost:8000/rs_microservice/openapi.json
+
 http://localhost:8000/health
 
  
